@@ -1312,7 +1312,7 @@ sudo apt update && sudo apt install wget -y && wget "https://raw.githubuserconte
 ----------------
 
 ```
-sudo apt update && sudo apt install python3 python3-pip curl -y && sudo pip install colorama netifaces && sudo python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
+sudo apt update && sudo apt install python3 python3-pip curl -y && sudo pip install colorama netifaces && python3 <(curl -Ls https://raw.githubusercontent.com/Azumi67/6TO4-GRE-IPIP-SIT/main/ipipv2.py --ipv4)
 ```
 
 
